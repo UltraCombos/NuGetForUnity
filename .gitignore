@@ -57,8 +57,8 @@ sysinfo.txt
 
 # Builds
 *.apk
-*.aab
 *.unitypackage
+*.unitypackage.meta
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -70,11 +70,11 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# Visual Studio Code
+/.vscode/
 
-# NugetForUnity Packages folder
-/[Aa]ssets/[Pp]ackages.meta
-/[Aa]ssets/[Pp]ackages/
+# Rider
+/.idea/
 
-/[Bb]in/
-
-*.log
+# Custom
+.vsconfig

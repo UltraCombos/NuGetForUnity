@@ -1,0 +1,8 @@
+{
+  "name": "com.ultracombos.nuget",
+  "version": "3.0.3",
+  "displayName": "NuGet",
+  "description": "Package for Nuget",
+  "repository": "",
+  "type": "tool"
+}
